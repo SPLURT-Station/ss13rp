@@ -23,8 +23,8 @@ SPLURT info: Fork made just so we can add ourselves to this lol
 ## Compiling for testing
 
 Requirements:
-Python 3.6+?
-All the libraries in requirements.txt
+- Python 3.6+?
+- All the libraries in requirements.txt
 
 Compilation steps:
 
