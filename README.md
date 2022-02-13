@@ -4,7 +4,7 @@ Rich Presence for the game Space Station 13!
 
 [My Dev Discord Server](https://discord.gg/JF3kg77) | [My Patreon (pls pls pls)](https://www.patreon.com/qwertyquerty)
 
-[![Download](https://creativebeacon.com/wp-content/uploads/2013/04/download_btn.png)](https://github.com/qwertyquerty/ss13rp/raw/master/dist/install.exe)
+[![Download](https://creativebeacon.com/wp-content/uploads/2013/04/download_btn.png)](https://github.com/SPLURT-Station/ss13rp/raw/master/dist/install.exe)
 
 ![https://i.imgur.com/ekxN8PX.png](https://i.imgur.com/ekxN8PX.png)
 
