@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['main.py'],
-             pathex=['D:\\SS13-Codes\\ss13rp'],
+             pathex=[],
              binaries=[],
              datas=[],
              hiddenimports=[],

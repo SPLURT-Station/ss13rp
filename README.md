@@ -1,4 +1,5 @@
 # ss13rp
+
 Rich Presence for the game Space Station 13!
 
 [My Dev Discord Server](https://discord.gg/JF3kg77) | [My Patreon (pls pls pls)](https://www.patreon.com/qwertyquerty)
@@ -12,27 +13,28 @@ If you want sPeCiAl SuPpOrT feel free to contact me:
 [My Dev Discord Server](https://discord.gg/JF3kg77)
 
 ---
+
 ## Fork info
+
 Done by SandPoot, this is an attempt of making this work better.
 
+SPLURT info: Fork made just so we can add ourselves to this lol
+
 ## Compiling for testing
+
 Requirements:
 Python 3.6+?
-and doing all those:
-```
-get-pip.py
-pip install pypresence
-pip install wheel
-pip install pywin32
-pip install psutil
-pip install requests
-```
+All the libraries in requirements.txt
 
-Afterwards you can just run main.py
+Compilation steps:
+
+1. Start a python environment using py -m venv [path to your environment folder]
+2. Enter such environment by running [path to your environment folder]\Scripts\activate.bat
+3. Run build.bat
 
 ## Installation
 
-Download the installer [here](https://github.com/qwertyquerty/ss13rp/raw/master/dist/install.exe) and run it. If you don't trust me, because no one seems to, compile it yourself. You could use something like pyinstaller.
+Download the installer [here](https://github.com/SPLURT-Station/ss13rp/raw/master/dist/install.exe) and run it. If you don't trust me, because no one seems to, compile it yourself. You could use something like pyinstaller.
 
 [![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
 
