@@ -28,8 +28,8 @@ All the libraries in requirements.txt
 
 Compilation steps:
 
-1. Start a python environment using py -m venv [path to your environment folder]
-2. Enter such environment by running [path to your environment folder]\Scripts\activate.bat
+1. Start a python environment using `py -m venv [path to your environment folder]`
+2. Enter such environment by running `[path to your environment folder]\Scripts\activate.bat`
 3. Run build.bat
 
 ## Installation
