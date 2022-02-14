@@ -25,6 +25,7 @@ servers = {
     "CM-SS13": ["Colonial Marines", "cm", "play.cm-ss13.com", 1400, "fetch"],
     "T.E. station, 18+": ["Transcendent Enemy", "citadel", "102.165.212.119", 3260, "fetch"],
     "(MRP-HRP) Sandstorm Station 13": ["Sandstorm Station 13", "sandstorm", "51.81.48.185", 8100, "fetch"],
+    "S.P.L.U.R.T. Station 13": ["S.P.L.U.R.T. Station 13", "splurt", "splurtstation.sytes.net", 42069, "fetch"],
     "Hyper Station 13": ["Hyper Station 13", "hyper", "172.93.98.2", 8058, "fetch"],
     "Nostra-13": ["Nostra-13", "nostra", "31.135.174.235", 1337, "fetch"],
     "Nebula 13 Brasil": ["Nebula Station 13", "nebula", "20.206.65.244", 2030, "fetch"],
@@ -32,4 +33,4 @@ servers = {
 }
 
 # formula: "Server Name": ["Big text name", "icon", "ip", port]
-client_id = "888067353458380821"
+client_id = "934953858231332914"
