@@ -33,4 +33,4 @@ servers = {
 }
 
 # formula: "Server Name": ["Big text name", "icon", "ip", port]
-client_id = "888067353458380821"
+client_id = "934953858231332914"
